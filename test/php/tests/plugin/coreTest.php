@@ -4,6 +4,7 @@
  *
  * @class CoreTest
  */
+//2017.3.11 text field customizing
 class CoreTest extends UD_Plugin_WP_UnitTestCase {
 
   /**
