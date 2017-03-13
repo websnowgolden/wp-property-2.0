@@ -4,7 +4,7 @@
  *
  * @class BasicTest
  */
-//2017.3.11 text field test
+//2017.3.13 title customizing
 class BasicTest extends WP_UnitTestCase {
 
   var $val;
