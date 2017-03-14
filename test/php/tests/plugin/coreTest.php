@@ -4,7 +4,7 @@
  *
  * @class CoreTest
  */
-//2017.3.13 title customizing
+//2017.3.14 search customizing
 class CoreTest extends UD_Plugin_WP_UnitTestCase {
 
   /**
